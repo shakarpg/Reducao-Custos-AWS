@@ -1,8 +1,10 @@
 
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-**Data:** 10 de julho de 2025  
+**Data:** 10 de julho de 2025
+
 **Empresa:** FarmaVida e XP Soluções Farmacêuticas  (*nome fantasia)
+
 **Responsável:** Rafael Pereira Galhardo
 
 ## Introdução
