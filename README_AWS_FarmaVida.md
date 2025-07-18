@@ -2,12 +2,12 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 **Data:** 10 de julho de 2025  
-**Empresa:** FarmaVida Soluções Farmacêuticas  
+**Empresa:** FarmaVida e XP Soluções Farmacêuticas  (*nome fantasia)
 **Responsável:** Rafael Pereira Galhardo
 
 ## Introdução
 
-Este relatório apresenta o processo de implementação de ferramentas na empresa *FarmaVida Soluções Farmacêuticas*, realizado por *Rafael Pereira Galhardo*. O objetivo do projeto foi:  
+Este relatório apresenta o processo de implementação de ferramentas na empresa *FarmaVida e XP Soluções Farmacêuticas*, realizado por *Rafael Pereira Galhardo*. O objetivo do projeto foi:  
 *elencar 3 serviços AWS, com a finalidade de melhorar a performance da operação*  
 *e realizar diminuição de custos imediatos*.
 
@@ -32,7 +32,7 @@ O projeto de implementação de ferramentas foi conduzido em 3 etapas, cada uma 
 
 ## Conclusão
 
-A implementação de ferramentas na empresa *FarmaVida Soluções Farmacêuticas* teve como esperado *aumento de eficiência operacional, melhoria na segurança da informação e redução de custos com infraestrutura física*, o que aumentará a eficiência e a produtividade da empresa.  
+A implementação de ferramentas na empresa *FarmaVida e XP Soluções Farmacêuticas* teve como esperado *aumento de eficiência operacional, melhoria na segurança da informação e redução de custos com infraestrutura física*, o que aumentará a eficiência e a produtividade da empresa.  
 Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
